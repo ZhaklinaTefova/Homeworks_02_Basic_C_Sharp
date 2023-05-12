@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfEven", "SumOfEven\SumOfEven.csproj", "{4912E80C-213D-4D15-9491-178A7C709902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGroup", "StudentGroup\StudentGroup.csproj", "{1646CA71-89BA-4B34-84B7-17EFEDB8C72B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4912E80C-213D-4D15-9491-178A7C709902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4912E80C-213D-4D15-9491-178A7C709902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4912E80C-213D-4D15-9491-178A7C709902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4912E80C-213D-4D15-9491-178A7C709902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1646CA71-89BA-4B34-84B7-17EFEDB8C72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1646CA71-89BA-4B34-84B7-17EFEDB8C72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1646CA71-89BA-4B34-84B7-17EFEDB8C72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1646CA71-89BA-4B34-84B7-17EFEDB8C72B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9972E509-DC3A-4D34-BC23-48C40CE23DA1}
+	EndGlobalSection
+EndGlobal
